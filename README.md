@@ -10,4 +10,4 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=evacosta&layout=compact&langs_count=8&card_width=320" 
 </a>
 
-![Snake animation](https://github.com/EvaCosta/EvaCosta)
+![Snake animation](https://github.com/EvaCosta)
